@@ -1,0 +1,49 @@
+/* .parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div1{
+    height: 2px;
+    background-color: black;
+    width: 200px;
+}
+
+.div2{
+    height: 2px;
+    background-color: black;
+    width: 200px;
+} */
+/* body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.formContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    border: 1px solid black;
+    width: 400px;
+    padding: 20px 20px;
+    box-sizing: border-box;
+    
+  
+}
+
+.boxContainer{
+    display: flex;
+    margin: 0px;
+
+}
+
+button{
+    background-color: aqua;
+    border-radius: 5px;
+    cursor: pointer;
+} */
+
+  
